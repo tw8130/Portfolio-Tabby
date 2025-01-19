@@ -92,7 +92,7 @@ portfolio/
 │   │   ├── hero-banner.jpg
 │   │   └── skill-icons.png
 │   └── docs/
-│       └── CURRICULUMN VITAE.docx
+│       └── Tabitha-Wanjiku-Mwangi-Resume.pdf
 │
 ├── index.html
 ├── README.md
